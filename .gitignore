@@ -3,4 +3,4 @@ requirements_installed.txt
 face_video.zip
 metadata_csv.zip
 data_preprocessed_python.zip
-eeg_extracted_features.csv
+eeg_extracted_features.csv.DS_Store
