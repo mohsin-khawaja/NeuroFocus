@@ -43,6 +43,6 @@ The project focuses on processing preprocessed EEG datasets (e.g., the DEAP data
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/xavierxdl/cogs189project.git
+   git clone https://github.com/mohsin-khawaja/NeuroFocus.git
    cd cogs189project
 
